@@ -1,5 +1,5 @@
 ### Hi! Bootros there! 👋
-### I'm a coming data science/data analysis in miami, Florida 
+### I'm a coming data science/Data analysis person in Miami, Florida 
 -  🐶 Working on: being a better data driving person. 
 -  🌱 Learning:  Adding **R** + Tensorflow + Mongodb + Sanity to my stack, and leveling up my CSS and JS.
 -  ⛅ Fun fact:  I enjoy cloud.
