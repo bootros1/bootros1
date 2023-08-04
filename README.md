@@ -1,7 +1,7 @@
 ### Hi! Bootros there! 👋
 ### I am a coming Data Science/Data Analysis professional in Miami, Florida 
 -  🐶 Working on: being a better data driving person. 
--  🌱 Learning:  Adding **R** + Tensorflow + Mongodb + Sanity to my stack, and leveling up my CSS and JS.
+-  🌱 Learning:  Adding **R** + Tensorflow + Statistical Analysis + Data Visualization.
 -  ⛅ Fun fact:  I enjoy cloud.
 ### 🌐 Some of the languages & technologies I've worked with:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
