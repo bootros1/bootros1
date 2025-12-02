@@ -1,5 +1,5 @@
 ### Hi! Bootros there! 👋
-### I am a Data Scientist professional in Miami, Florida 
+### I am a Data professional in Miami, Florida 
 -  🐶 Working on: being a better data driving person. 
 -  🌱 Learning:  Adding **R** + Tensorflow + Statistical Analysis + Data Visualization.
 -  ⛅ Fun fact:  I enjoy learning.
